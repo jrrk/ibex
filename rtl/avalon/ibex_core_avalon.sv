@@ -2,7 +2,7 @@
  * Avalon Wrapper for ibex core
  */
 
-`define RFVI
+`define RVFI
 
 module ibex_core_avalon #(
     parameter int unsigned MHPMCounterNum   = 0,
